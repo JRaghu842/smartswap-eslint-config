@@ -1,10 +1,8 @@
 {
-  "name": "@uniswap/eslint-config",
-  "version": "0.0.1",
-  "description": "Uniswap ESLint config",
-  "repository": "https://github.com/Uniswap/eslint-config",
-  "homepage": "https://github.com/Uniswap/eslint-config#readme",
-  "bugs": "https://github.com/Uniswap/eslint-config/issues",
+  "name": "smartswap-eslint-config",
+  "version": "1.0.0",
+  "description": "Smartswap ESLint config",
+  "repository": "https://github.com/JRaghu842/smartswap-eslint-config.git",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
@@ -14,8 +12,7 @@
   "keywords": [
     "config",
     "eslint",
-    "eslintconfig",
-    "uniswap"
+    "eslintconfig"
   ],
   "main": "node.js",
   "files": [
